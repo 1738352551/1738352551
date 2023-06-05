@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🧑🏻‍💻陈慢慢
+
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=1738352551)
+
