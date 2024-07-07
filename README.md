@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🌱 I’m currently learning rust...
 
 <!--
 **1738352551/1738352551** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
